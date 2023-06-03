@@ -1,6 +1,5 @@
 - 👋 Hi, I’m lohith
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning web development
 
 
 <!---
